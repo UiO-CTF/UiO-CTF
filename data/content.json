@@ -1,0 +1,121 @@
+{
+
+    "ui": {
+
+        "header": {
+            "title": "UiO-CTF",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam.",
+            "links": {
+
+                "internal": {
+                    "schedule": "View Schedule",
+                    "team": "The Team"
+                },
+
+                "external": [
+                    {
+                        "icon": "github",
+                        "href": "https://github.com/UiO-CTF"
+                    },
+                    {
+                        "icon": "facebook",
+                        "href": "https://www.facebook.com/uioctf/"
+                    }
+                ]
+            }
+        },
+
+        "schedule": {
+            "title": "Schedule"
+        },
+
+        "team": {
+            "title": "The Team"
+        }
+
+    },
+
+    "schedule": [
+        {
+            "date": "2019-01-30",
+            "topic": "Reverse Engineering",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-02-09",
+            "topic": "Beginner CTF!",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-02-13",
+            "topic": "Reverse Engineering",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-02-27",
+            "topic": "Guest Presentation + Mini CTF",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-03-13",
+            "topic": "Ethical Hacking for Beginners at OsloMET",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-03-27",
+            "topic": "Forensics",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        },
+        {
+            "date": "2019-04-10",
+            "topic": "Guest Presentation + Mini CTF",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+        }
+    ],
+
+    "members": [
+
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        },
+        {
+            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "name": "Lerom Ipsum",
+            "title": "Mauris elit"
+        }
+
+    ]
+
+}
