@@ -4,7 +4,7 @@
 
         "header": {
             "title": "UiO-CTF",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam.",
+            "description": "UiO-CTF is the hacking team at the University of Oslo.<br><br>Every semester, we host ethical hacking workshops to raise awareness of the importance of IT security. The workshops are based on tasks from hacking competitions (CTFs), and show how to exploit vulnerabilities.<br><br>We regularly participate in CTFs, and meet up to solve tasks together a few times each semester. You are more than welcome to join us while solving hacking tasks! Join our discord channel to get more information about joining us in hacking competitions: https://discord.gg/7aTwpGa",
             "links": {
 
                 "internal": {
