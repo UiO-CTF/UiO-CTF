@@ -39,37 +39,42 @@
         {
             "date": "2019-01-30",
             "topic": "Reverse Engineering",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "This is our first workshop this semester to get you familiar with hacking and security! The workshops will be held at Ole Johan Dahls Hus, in the third floor, at 5pm. See our Facebook page for more details on the events. This semester we start with reverse engineering, introduction to Interactive Disassembler (IDA). Please download the free version of IDA prior to the workshop from here: https://www.hex-rays.com/products/ida/support/download_freeware.shtml"
         },
         {
             "date": "2019-02-09",
             "topic": "Beginner CTF!",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "We are hosting a CTF this semester! The CTF is open for all universities in Norway (and everybody else who would like to checkout out the CTF)! Interested in practical security/hacking, but don't know where to start? Then this hacking competition is perfect for you! We host a beginner CTF to teach you loads of cool security and programming stuff. The people from UiO-CTF will be present to help everyone who might be stuck. Our competition contain tasks in the categories web security, cryptography, binary exploitation, reverse engineering and forensics. Each category has a couple of tasks with various difficulties."
         },
         {
             "date": "2019-02-13",
             "topic": "Reverse Engineering",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "In this workshop we continue reverse engineering with IDA. Same place, same time, and as usual, open to everyone."
+        },
+        {
+            "date": "2019-02-16",
+            "topic": "TG:Hack release hacking",
+            "description": "TG:Hack is releasing an early version of their CTF from the 17th of April. The early version features tasks befitting beginners at CTF, and include tutorials and walkthroughs. So if you are curious or interested about ethical hacking and practical security, this event is for you! The crew will be present to assist anyone trying to solve the challenges."
         },
         {
             "date": "2019-02-27",
             "topic": "Guest Presentation + Mini CTF",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "For this workshop, we have a guest presenter from NSM NorCERT that will tell us a bit about how it is to work as a reverse engineer. After the presentation, we will have a mini CTF with the tasks we've gone through in the last two workshops. Now you can practice your reverse engineering skills! Don't worry if you've never done this before or did not attend the other two workshops. We go around, help you and make sure you learn something cool."
         },
         {
             "date": "2019-03-13",
             "topic": "Ethical Hacking for Beginners at OsloMET",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "OsloMet invited us to arrange one of our workshops there. This workshop will be arranged to encourage everybody to join us. This time we are going to cover multiple topics (web hacking, binary exploitation, reverse engineering) with some easy examples. The workshop is for beginners, no previous experience of hacking is needed.  We present a hacking challenge and how to solve it, then the students solve it. UiO-CTF members will be available to help you with the tasks."
         },
         {
             "date": "2019-03-27",
             "topic": "Forensics",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "description": "It's time to start practicing forensics related challenges. Digital forensics is about looking for evidence (or flags) in digital storage media by using techniques like stegonography and command line tools such as 'binwalk' and 'strings'. As it is the first workshop on the topic, it will be appropriate for beginners."
         },
         {
             "date": "2019-04-10",
-            "topic": "Guest Presentation + Mini CTF",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit lorem, pellentesque eget volutpat sit amet, sagittis vel odio. Praesent sit amet accumsan quam. Aliquam leo ante, varius eget porta blandit, pretium dignissim lectus. Proin ultricies urna sit amet nulla rutrum, sed semper nisi accumsan. Cras finibus ligula ac nisl venenatis aliquam. In hac habitasse platea dictumst. Curabitur ipsum lectus, rhoncus nec ultrices at, pretium et ante. Maecenas ornare leo ut nisl aliquam, in varius nulla feugiat."
+            "topic": "Guest Presentation on Forensics + Mini CTF",
+            "description": "On our last Workshop in this semester we will have a guest presentation on the topic of digital forensics and a mini CTF to top it off."
         }
     ],
 
@@ -77,38 +82,38 @@
 
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Laszlo Erdodi",
+            "title": "Team Leader"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Marit Iren Rognli Tokle",
+            "title": "Team Leader"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Mathias Frits Rørvik",
+            "title": "Team Captain"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Joakim Frogner",
+            "title": "Team Captain"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Christian Resell",
+            "title": "Team Captain"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Greger Martinussen",
+            "title": "Team Captain"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
+            "name": "Daniel Heinesen",
+            "title": "Team Captain"
         },
         {
             "profilePicture": "http://i.imgur.com/jS77h8C.png",
