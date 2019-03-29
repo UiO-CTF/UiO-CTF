@@ -2,8 +2,7 @@
 
     "ui": {
 
-        "header": {
-            "title": "UiO-CTF",
+        "header": { "title": "UiO-CTF",
             "description": "UiO-CTF is the hacking team at the University of Oslo. Every semester, we host ethical hacking workshops to raise awareness of the importance of IT security. The workshops are based on tasks from hacking competitions (CTFs), and show how to exploit vulnerabilities. We regularly participate in CTFs, and meet up to solve tasks together a few times each semester. You are more than welcome to join us while solving hacking tasks! Join our discord channel to get more information about joining us in hacking competitions: https://discord.gg/7aTwpGa",
             "links": {
 
@@ -81,17 +80,17 @@
     "members": [
 
         {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Erdodi.jpg",
             "name": "Laszlo Erdodi",
             "title": "Team Leader"
         },
         {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Tokle.jpg",
             "name": "Marit Iren Rognli Tokle",
             "title": "Team Leader"
         },
         {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Rorvik.jpg",
             "name": "Mathias Frits Rørvik",
             "title": "Team Captain"
         },
@@ -101,12 +100,12 @@
             "title": "Team Captain"
         },
         {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Christian Resell",
+            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Tomas.jpg",
+            "name": "Nora Tomas",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
+            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Martinussen.jpg",
             "name": "Greger Martinussen",
             "title": "Team Captain"
         },
@@ -114,11 +113,6 @@
             "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Heinesen.jpg",
             "name": "Daniel Heinesen",
             "title": "Team Captain"
-        },
-        {
-            "profilePicture": "http://i.imgur.com/jS77h8C.png",
-            "name": "Lerom Ipsum",
-            "title": "Mauris elit"
         }
 
     ]
