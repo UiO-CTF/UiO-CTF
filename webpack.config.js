@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
 const webpack = require('webpack');
+const CopyPlugin = require('copy-webpack-plugin');
 
 function loadJSON(path) {
     return fs.readFileSync(path, 'utf-8');
@@ -15,7 +16,8 @@ module.exports = {
     entry: './src/index.js',
     output: {
         filename: '[name].bundle.js',
-        path: path.resolve(__dirname, 'dist')
+        path: path.resolve(__dirname, 'dist'),
+        publicPath: '/', 
     },
 
     module: {
@@ -53,6 +55,10 @@ module.exports = {
         new webpack.DefinePlugin({
             'CONTENT': loadJSON(path.resolve(__dirname, 'data', 'content.json'))
         }),
+        new CopyPlugin([{
+            from: './data/portraits',
+            to: 'portraits'
+        }]),
     ],
 
     mode: 'development',
