@@ -80,42 +80,42 @@
     "members": [
 
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Erdodi.jpg",
+            "profilePicture": "/portraits/Erdodi.jpg",
             "name": "Laszlo Erdodi",
             "title": "Team Leader"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Tokle.jpg",
+            "profilePicture": "/portraits/Tokle.jpg",
             "name": "Marit Iren Rognli Tokle",
             "title": "Team Leader"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Rorvik.jpg",
+            "profilePicture": "/portraits/Rorvik.jpg",
             "name": "Mathias Frits Rørvik",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Frogner.jpg",
+            "profilePicture": "/portraits/Frogner.jpg",
             "name": "Joakim Frogner",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Tomas.jpg",
+            "profilePicture": "/portraits/Tomas.jpg",
             "name": "Nora Tomas",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Martinussen.jpg",
+            "profilePicture": "/portraits/Martinussen.jpg",
             "name": "Greger Martinussen",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Heinesen.jpg",
+            "profilePicture": "/portraits/Heinesen.jpg",
             "name": "Daniel Heinesen",
             "title": "Team Captain"
         },
         {
-            "profilePicture": "https://raw.githubusercontent.com/G-Eazy/UiO-CTF/master/portraits/Hussain.jpg",
+            "profilePicture": "/portraits/Hussain.jpg",
             "name": "Muddasar Hussain",
             "title": "Team Captain"
         }
