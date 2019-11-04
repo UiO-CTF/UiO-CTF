@@ -56,7 +56,7 @@ module.exports = {
             'CONTENT': loadJSON(path.resolve(__dirname, 'data', 'content.json'))
         }),
         new CopyPlugin([{
-            from: './data/portraits',
+            from: './docs/portraits',
             to: 'portraits'
         }]),
     ],
