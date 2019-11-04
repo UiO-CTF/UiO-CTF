@@ -61,9 +61,9 @@
             "description": "The format string exploit occurs when the submittet data of an input string is evaluated as a command by the application. We will give an introduction to the subject and some simple exploits of this format."
         },
         {
-            "date": "2019-11-06",
-            "topic": "Disk and Memory security",
-            "description": "RAM, SSD, Stack frames, process isolation and boot are the keywords of this workshop."
+            "date": "2019-11-27",
+            "topic": "Guest-Lecture: Disk and Memory security",
+            "description": "A representative of NSM will go through secruity in RAM, SSD, Stack frames, process isolation and boot in this workshop."
         }
     ],
 
