@@ -2,8 +2,8 @@
 
     "ui": {
 
-        "header": { "title": "UiO-CTF",
-            "description": "UiO-CTF is the hacking team at the University of Oslo. Every semester, we host ethical hacking workshops to raise awareness of the importance of IT security. The workshops are based on tasks from hacking competitions (CTFs), and show how to exploit vulnerabilities. We regularly participate in CTFs, and meet up to solve tasks together a few times each semester. You are more than welcome to join us while solving hacking tasks! Join our discord channel to get more information about joining us in hacking competitions: https://discord.gg/7aTwpGa",
+        "header": { "title": "Oslo-CTF",
+            "description": "Oslo-CTF is a group of security enthusiasts and programmers. Based at the University of Oslo and Oslo Metropolitan University, and now scaling beyond to the Oslo area. We host ethical hacking workshops to raise awareness of the importance of IT security. The workshops are based on tasks from hacking competitions (CTFs), and show how to exploit vulnerabilities. We regularly participate in CTFs, and meet up to solve tasks together a few times each semester. You are more than welcome to join us while solving hacking tasks! Join our discord channel to get more information about joining us in hacking competitions: https://discord.gg/7aTwpGa",
             "links": {
 
                 "internal": {
@@ -14,11 +14,11 @@
                 "external": [
                     {
                         "icon": "github",
-                        "href": "https://github.com/UiO-CTF"
+                        "href": "https://github.com/Oslo-CTF"
                     },
                     {
                         "icon": "facebook",
-                        "href": "https://www.facebook.com/uioctf/"
+                        "href": "https://www.facebook.com/osloctf/"
                     }
                 ]
             }
@@ -36,48 +36,23 @@
 
     "schedule": [
         {
-            "date": "2019-09-11",
-            "topic": "Linux terminal and Bandit",
-            "description": "This is our first workshop this semester to get you familiar with hacking and security! The workshops will be held at Ole Johan Dahls Hus, in the third floor, at 5pm. See our Facebook page for more details on the events. This semester we start with terminal exercises for both beginners and everyone else. Literally for everyone interested in programming and networking. In this workshop, we go through different commands in the Linux terminal, through a popular wargame called Bandit. It is from the web site named Over The Wire (https://overthewire.org/wargames/bandit/). "
-        },
-        {
-            "date": "2019-09-18",
-            "topic": "Guest Lecture from NSM - Cyberattacks on Norway",
-            "description": "Jostein Løvbråten will talk about cyberattacks against norwegian enterprises. The National Security Authority recieve daily alerts from private and public sector, and some are more serious than others. No need for computers on this one."
-        },
-        {
-            "date": "2019-09-25",
-            "topic": "API",
-            "description": "This workshop will give an introduction to APIs and HTTP requests. We will talk aboud sending HTTP requests to an API, interpreting the response of the request, and the various security vulnerabilities assosiated with these protocols."
-        },
-        {
-            "date": "2019-10-09",
-            "topic": "Wordpress - Security and Vulnerabilities",
-            "description": "Wordpress is a commonly used website framework. While security is among the developers' main focus areas to keep the hackers out, this is not always the easiest to accomplish. This workshop gives an overview of known vulnerabilities in earlier versions of Wordpress and also teaches you how to keep your website as safe as possible."
-        },
-        {
-            "date": "2019-10-23",
-            "topic": "Format strings",
-            "description": "The format string exploit occurs when the submittet data of an input string is evaluated as a command by the application. We will give an introduction to the subject and some simple exploits of this format."
-        },
-        {
-            "date": "2019-11-27",
-            "topic": "Guest-Lecture: Disk and Memory security",
-            "description": "A representative of NSM will go through secruity in RAM, SSD, Stack frames, process isolation and boot in this workshop."
+            "date": "2020-06-08",
+            "topic": "Workshop at NDC Oslo",
+            "description": "This workshop will be an interactive session where you get to learn and test some skills in hacking. Whether you are the CSO, developer/tester or sys admin, the practical lessons of security will be useful and, as it is a game/competition, fun."
         }
     ],
 
     "members": [
 
         {
-            "profilePicture": "./portraits/Erdodi.jpg",
-            "name": "Laszlo Erdodi",
+            "profilePicture": "./portraits/Martinussen.jpg",
+            "name": "Greger Martinussen",
             "title": "Team Leader"
         },
         {
             "profilePicture": "./portraits/Tokle.jpg",
             "name": "Marit Iren Rognli Tokle",
-            "title": "Team Leader"
+            "title": "Team Captain"
         },
         {
             "profilePicture": "./portraits/Rorvik.jpg",
@@ -95,18 +70,8 @@
             "title": "Team Captain"
         },
         {
-            "profilePicture": "./portraits/Martinussen.jpg",
-            "name": "Greger Martinussen",
-            "title": "Team Captain"
-        },
-        {
             "profilePicture": "./portraits/Heinesen.jpg",
             "name": "Daniel Heinesen",
-            "title": "Team Captain"
-        },
-        {
-            "profilePicture": "./portraits/Hussain.jpg",
-            "name": "Muddasar Hussain",
             "title": "Team Captain"
         }
 
